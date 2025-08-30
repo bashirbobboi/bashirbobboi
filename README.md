@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Mohammed Bobboi
 
 ### 🚀 About Me  
-I'm a **final-year Computer Science student** at the University of Sheffield, passionate about **software engineering, backend development, and cybersecurity**. I enjoy solving complex problems, building scalable applications, and learning new technologies.  
+I'm a **final-year Computer Science student** at the University of Sheffield, passionate about **software engineering, backend development, and cybersecurity**.
  
 
 - 
